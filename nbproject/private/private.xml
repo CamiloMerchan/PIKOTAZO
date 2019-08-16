@@ -2,26 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/js/validar.js</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/editarCliente.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/agregarMesa.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/agregarPlato.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/bootstrap1/css/bootstrap.min.css</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/index.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/js/jquery-2.2.4.min_1.js</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/js/valida.js</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/css/form.css</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/login.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/js/jquery.validate.min_1.js</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/editarPlato.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/agregarCargo.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/indexPlato.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/indexMesa.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/js/jquery.validate.min.js</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/About.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/agregarCliente.jsp</file>
-            <file>file:/D:/Usuarios/Downloads/PHP/PROYECTOJAVA/web/WEB-INF/jsp/indexCliente.jsp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

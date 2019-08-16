@@ -54,16 +54,7 @@
 						</ul>
 					</div>
 				</div>
-                            <div class="dropdown">
-          <a style="color:white" href="#" class="nav-link dropdown-toggle" data-toggler="dropdown" >Cerrar Sesion</a>
-          <div class="dropdown-menu text-center">
-              <a><img src="images/chef-1.jpg" height="80" width="80"></a><br>
-              <a>User</a>
-              <a>example@gmail.com</a>
-              <div class="dropdown-driver"></div>
-              <a href="index.jsp"class="dropdown-item">Salir</a>
-          </div>
-        </div>
+                           
 			</div>
 		</div>
 	</nav>
@@ -84,7 +75,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/logo1.jpg);">
+			   	<li style="background-image: url(images/img_bg_1.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -120,7 +111,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/logo2.jpg);">
+			   	<li style="background-image: url(images/img_bg_3.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -138,7 +129,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/logo3.jpg);">
+			   	<li style="background-image: url(images/img_bg_4.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
