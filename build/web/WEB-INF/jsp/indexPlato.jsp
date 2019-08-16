@@ -11,17 +11,20 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link href="bootstrap1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     </head>
    
     <body>
-         </div> <a name="" id="" class="btn btn-primary p-10 mb-5  mt-5 m-right" href="agregarPlato.htm" role="button">Nuevo Registro</a>
+         </div> <a name="" id="" class="btn btn-primary p-10 mb-5  mt-5 m-right" href="agregarPlato.htm" role="button"><i class="fas fa-user-plus"></i></a>
         <h1>Agrega un Nuevo Plato</h1>
-        <table class="table table-hover">
+        <div class="row justify-content-center">      
+        <table class="table table-hover table-dark">
             <thead>
+     
                 <tr>
-                    <th>Nombre</th>
-                    <th>Precio</th>
-                    <th>Descripcion</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Precio</th>
+                    <th scope="col">Descripcion</th>
                 </tr>
             </thead>
             <tbody>
@@ -31,14 +34,14 @@
                 <td>${dato.Precio}</td>
                 <td>${dato.Descripcion}</td>
                 <td>
-                    <a href="editarPlato.htm?IdPlato=${dato.IdPlato}">Editar</a>
-                    <a href="deletePlato.htm?IdPlato=${dato.IdPlato}" onclick="return confirm('Estas seguro de eliminar');">Eliminar</a>
+                    <a href="editarPlato.htm?IdPlato=${dato.IdPlato}"><i class="fas fa-edit"></i></a>
+                    <a href="deletePlato.htm?IdPlato=${dato.IdPlato}" onclick="return confirm('Estas seguro de eliminar');"><i class="fas fa-trash-alt"></i></a>
                 </td>
             </tr>
             </c:forEach>
             </tbody>
             </table>
-       
+       </div>
         </tbody>
     </body>
 </html>

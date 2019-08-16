@@ -19,6 +19,7 @@
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 	<!-- Magnific Popup -->
+        
 	<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- Flexslider  -->
 	<link rel="stylesheet" href="css/flexslider.css">
